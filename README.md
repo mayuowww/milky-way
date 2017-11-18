@@ -9,7 +9,7 @@
 ## What is Milky Way?
 Milky Way is a cryptocurrency price projection app using time series analysis and sentiment analysis.
 
-## Status
+## Status   
 
 Milky Way is under development. See our
 [roadmap](https://docs.google.com/spreadsheets/d/1G64Su4XrF2UNiHnQVZBwyqxuPLy70KNG5qzZxuO1oAQ/edit?usp=sharing) for a list of features planned or in development.
